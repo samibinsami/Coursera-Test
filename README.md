@@ -1,4 +1,4 @@
-## Abay Tatti to typing test me fail q hogaya
+## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/samibinsami/Coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
